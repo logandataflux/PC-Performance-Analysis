@@ -6,7 +6,7 @@ This project analyzes CPU and GPU performance under different workloads (idle, g
 Data was collected using system monitoring tools and processed using Python for cleaning, transformation, and visualization.
 
 ## Data Collection Methodology
-CPU Data Collection
+**CPU Data Collection**
 
 CPU performance data was collected using Intel Extreme Tuning Utility (XTU) under three controlled workload conditions:
 
@@ -16,7 +16,7 @@ Stress Test: CPU stress testing was performed using Intel XTU built-in stress to
 
 All CPU metrics (temperature, usage, power draw, frequency) were logged in real time.
 
-GPU Data Collection
+**GPU Data Collection**
 
 GPU performance data was collected using real-time hardware monitoring tools during controlled workload scenarios:
 
