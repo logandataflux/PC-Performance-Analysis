@@ -26,7 +26,7 @@ Stress Test: A GPU stress benchmark (FurMark-style workload) was used to generat
 
 GPU metrics collected included temperature, usage, clock speeds, memory usage, power draw, and fan response.
 
-**Environment Conditions:**
+### **Environment Conditions:**
 Resolution: 1920×1080 (Gaming test)
 Refresh Rate: 144Hz
 DLSS: Disabled
