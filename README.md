@@ -10,7 +10,7 @@ Data was collected using system monitoring tools and processed using Python for 
 - Pandas
 - Matplotlib
 - Intel Extreme Tuning Utility (CPU data)
-- GPU monitoring tools (MSI Afterburner / FurMark-style logs)
+- GPU monitoring tools (MSI Afterburner)
 
 ## Workflow
 1. Collected CPU and GPU telemetry under:
