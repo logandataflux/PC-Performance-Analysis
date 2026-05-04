@@ -27,12 +27,12 @@ GPU performance data was collected using real-time hardware monitoring tools dur
 GPU metrics collected included temperature, usage, clock speeds, memory usage, power draw, and fan response.
 
 ### **Environment Conditions:**
-Resolution: 1920×1080 (Gaming test)
-Refresh Rate: 144Hz
-DLSS: Disabled
-Power plan: High performance
-Background applications minimized
-Consistent ambient room conditions (non-controlled but stable environment)
+- Resolution: 1920×1080 (Gaming test)
+- Refresh Rate: 144Hz
+- DLSS: Disabled
+- Power plan: High performance
+- Background applications minimized
+- Consistent ambient room conditions (non-controlled but stable environment)
 
 ## **Tools & Technologies**
 - Python
